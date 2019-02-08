@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-get-sms-android] /home/user/Desktop/smsListner/node_modules/react-native-get-sms-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-sms-retriever] /home/user/Desktop/smsListner/node_modules/react-native-sms-retriever/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.57.8] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/03fe05e8107caef9bc09183a5c226942/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:17:1-39:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/91ff5abc651bea114aa5828f0710edd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8efa2d87dd1f831ed9ee63e165e23e47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/4aa2539364d4d812e30e467c74e6665e/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/09e7685a319db2a7ea5ad3d2be8fa64c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b78260767b25517ef5b839fe15330dfc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e75ff900066b272af739cebf4ac9049e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/623c867f97f6763c1d82f04e5a5ea418/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8a238c3c116946b047366910418e0da/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/81e395f9ef3840f088c493b600c712b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2e680178a97e5d86dab51205f4b6878f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8def8a67a442ca80df4a76b8f7b2c26b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bde008a987d3301085ced7992a6f482/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8d992ff91b2f45a60e4380cf9a08acde/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c556c8f14e0bbc410800f6bbae7a8fa1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/fce706042e45569cc8701bebe034cf91/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/322296a96c2667347d3be3b3957bc12f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f5712dfe76c189f4b3b1dc759c7832fd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/user/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/0233b94968deb66d8cf0a9646205df44/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/user/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/7fea608e164f2ebe023d5e979724241a/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/57b61d40181c84b19846587ab0765347/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/efbacfcdb42822fc9c9ca0ced79ee423/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f3579eb764b203ca8c6ea222cfd90dab/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cef09a622e30de89267d4ad78c1beeb7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/147a62d0cb654cdca71e75de3f852518/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/03fe05e8107caef9bc09183a5c226942/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/03fe05e8107caef9bc09183a5c226942/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.READ_SMS
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:react-native-get-sms-android] /home/user/Desktop/smsListner/node_modules/react-native-get-sms-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-get-sms-android] /home/user/Desktop/smsListner/node_modules/react-native-get-sms-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:7:5-68
+MERGED from [:react-native-get-sms-android] /home/user/Desktop/smsListner/node_modules/react-native-get-sms-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-get-sms-android] /home/user/Desktop/smsListner/node_modules/react-native-get-sms-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [:react-native-get-sms-android] /home/user/Desktop/smsListner/node_modules/react-native-get-sms-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-67
+MERGED from [:react-native-get-sms-android] /home/user/Desktop/smsListner/node_modules/react-native-get-sms-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [com.facebook.react:react-native:0.57.8] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/03fe05e8107caef9bc09183a5c226942/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/03fe05e8107caef9bc09183a5c226942/AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b78260767b25517ef5b839fe15330dfc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b78260767b25517ef5b839fe15330dfc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e75ff900066b272af739cebf4ac9049e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e75ff900066b272af739cebf4ac9049e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/623c867f97f6763c1d82f04e5a5ea418/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/623c867f97f6763c1d82f04e5a5ea418/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8a238c3c116946b047366910418e0da/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8a238c3c116946b047366910418e0da/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/user/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/0233b94968deb66d8cf0a9646205df44/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/user/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/0233b94968deb66d8cf0a9646205df44/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/user/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/7fea608e164f2ebe023d5e979724241a/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/user/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/7fea608e164f2ebe023d5e979724241a/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:11:7-39
+	android:icon
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:name
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.smslistner.MainActivity
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:15:7-24:18
+	android:label
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:windowSoftInputMode
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-get-sms-android] /home/user/Desktop/smsListner/node_modules/react-native-get-sms-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-get-sms-android] /home/user/Desktop/smsListner/node_modules/react-native-get-sms-android/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sms-retriever] /home/user/Desktop/smsListner/node_modules/react-native-sms-retriever/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-sms-retriever] /home/user/Desktop/smsListner/node_modules/react-native-sms-retriever/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.57.8] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/03fe05e8107caef9bc09183a5c226942/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /home/user/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/03fe05e8107caef9bc09183a5c226942/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9598a6f550accd542c0e2ca684c5d48d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/91ff5abc651bea114aa5828f0710edd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/91ff5abc651bea114aa5828f0710edd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8efa2d87dd1f831ed9ee63e165e23e47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8efa2d87dd1f831ed9ee63e165e23e47/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/4aa2539364d4d812e30e467c74e6665e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/4aa2539364d4d812e30e467c74e6665e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/09e7685a319db2a7ea5ad3d2be8fa64c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/09e7685a319db2a7ea5ad3d2be8fa64c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b78260767b25517ef5b839fe15330dfc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/b78260767b25517ef5b839fe15330dfc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e75ff900066b272af739cebf4ac9049e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e75ff900066b272af739cebf4ac9049e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/623c867f97f6763c1d82f04e5a5ea418/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/623c867f97f6763c1d82f04e5a5ea418/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8a238c3c116946b047366910418e0da/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8a238c3c116946b047366910418e0da/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/81e395f9ef3840f088c493b600c712b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/81e395f9ef3840f088c493b600c712b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2e680178a97e5d86dab51205f4b6878f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2e680178a97e5d86dab51205f4b6878f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8def8a67a442ca80df4a76b8f7b2c26b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8def8a67a442ca80df4a76b8f7b2c26b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bde008a987d3301085ced7992a6f482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bde008a987d3301085ced7992a6f482/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8d992ff91b2f45a60e4380cf9a08acde/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8d992ff91b2f45a60e4380cf9a08acde/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c556c8f14e0bbc410800f6bbae7a8fa1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/c556c8f14e0bbc410800f6bbae7a8fa1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/fce706042e45569cc8701bebe034cf91/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/fce706042e45569cc8701bebe034cf91/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/322296a96c2667347d3be3b3957bc12f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/322296a96c2667347d3be3b3957bc12f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f5712dfe76c189f4b3b1dc759c7832fd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f5712dfe76c189f4b3b1dc759c7832fd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/user/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/0233b94968deb66d8cf0a9646205df44/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/user/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/0233b94968deb66d8cf0a9646205df44/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/57b61d40181c84b19846587ab0765347/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/57b61d40181c84b19846587ab0765347/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/efbacfcdb42822fc9c9ca0ced79ee423/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/efbacfcdb42822fc9c9ca0ced79ee423/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f3579eb764b203ca8c6ea222cfd90dab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/user/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f3579eb764b203ca8c6ea222cfd90dab/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cef09a622e30de89267d4ad78c1beeb7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cef09a622e30de89267d4ad78c1beeb7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/147a62d0cb654cdca71e75de3f852518/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/147a62d0cb654cdca71e75de3f852518/AndroidManifest.xml:20:5-44
+INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/623c867f97f6763c1d82f04e5a5ea418/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/375190bbdae7684cc0c6bd8af68c840d/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/70678b483dbc6f45d25134d6fef93c94/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e75ff900066b272af739cebf4ac9049e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e75ff900066b272af739cebf4ac9049e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/user/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e75ff900066b272af739cebf4ac9049e/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/623c867f97f6763c1d82f04e5a5ea418/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8a238c3c116946b047366910418e0da/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8a238c3c116946b047366910418e0da/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/623c867f97f6763c1d82f04e5a5ea418/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/user/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/623c867f97f6763c1d82f04e5a5ea418/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/user/Desktop/smsListner/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
